@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @floofy244
+- 👋 Hi, I’m Aviral Malik
 - 👀 I’m interested in making websites and apps
 - 🌱 I’m currently learning web development
-- 📫 How to reach me email me at iamaviralmalik@gmail.com
+- 📫 Reach me at iamaviralmalik@gmail.com 
 
 <!---
 floofy244/floofy244 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
