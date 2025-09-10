@@ -7,7 +7,7 @@ I’m passionate about building scalable web apps, optimizing databases, and cra
 
 ---
 
-## 🚀 Tech Snapshot  
+## 🚀 Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
@@ -44,21 +44,7 @@ I’m passionate about building scalable web apps, optimizing databases, and cra
 
 ---
 
-## 📈 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=floofy244&show_icons=true&theme=radical" alt="Aviral's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=floofy244&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=floofy244&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
 
 ## 📫 Let’s Connect  
 
